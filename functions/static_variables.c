@@ -16,5 +16,5 @@ void main() {
     
     ++a;
     //++b;
-    printf("%d %d\n", a);
+    printf("%d\n", a);
 }
