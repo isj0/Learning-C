@@ -1,0 +1,16 @@
+/**
+ * There are two types of addresses
+ *  1. Absolute adrress
+ *  2. Relative address
+ *  3. Address of a variable :- address of operator which is (&)
+ *          e.g (&a) - this will give the address of variable a
+ *  4. value at operator (*) :- memory location operand  
+ *          e.g *(&a) - this will give the value of the variable
+ * 
+ *  5. name of the arry represents the address of its first element
+ *          e.g a
+ * 
+ * 6. lvalue, rvalue ??
+ * 
+ * 7. array elements are sequantially stored 
+ */
